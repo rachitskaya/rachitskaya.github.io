@@ -57,6 +57,6 @@ const data = [
         title: 'вопрос 3',
         id: 3,
         description: 'пояснение 3',
-        answer: 'ответ 3 ответ 3 ответ 3 ответ 3 <img style="object-fit: cover" width="200px" height="100px" src="../img/323.jpg" /> ответ 3 ответ 3 ответ 3 ответ 3 ответ 3 ответ 3',
+        answer: 'ответ 3 ответ 3 ответ 3 ответ 3 <img style="object-fit: cover" width="200px" height="100px" src="https://raw.githubusercontent.com/rachitskaya/rachitskaya.github.io/master/static/img/323.jpg" /> ответ 3 ответ 3 ответ 3 ответ 3 ответ 3 ответ 3',
     }
 ];
